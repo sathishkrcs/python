@@ -13,7 +13,7 @@ else:
     print("Sessame Not Matching")
   
 
-email = "sathish.prakash@socgen-ext.coms"
+email = "sathish.prakash@test-ext.coms"
 em = re.search("^[\w\.\+\-]+\@[\w-]+\.[a-z]{2,3}$", email)
 
 
